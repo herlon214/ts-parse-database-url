@@ -27,4 +27,4 @@ Look at `src/__tests__` for more tests examples.
 
 
 
-_Thanks to https://github.com/pwnall/node-parse-database-ur  for creating the lib :tada:_
+_Thanks to https://github.com/pwnall/node-parse-database-url for creating the original lib :tada:_
