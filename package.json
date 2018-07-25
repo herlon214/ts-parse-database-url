@@ -1,6 +1,6 @@
 {
   "name": "ts-parse-database-url",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Parse database urls",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

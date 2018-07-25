@@ -7,7 +7,7 @@ export class DatabaseConfig {
   public readonly user?: string;
   public readonly password?: string;
   public readonly host?: string;
-  public readonly port?: string;
+  public readonly port?: number;
   public readonly database?: string;
   public readonly filename?: string; // For SQLite
   public readonly hosts?: any; // For MongoDB
