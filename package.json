@@ -1,9 +1,10 @@
 {
   "name": "ts-parse-database-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse database urls",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": "https://github.com/herlon214/ts-parse-database-url",
   "scripts": {
     "prepare": "npm run build && npm run format",
     "build": "rm -rf dist/ && tsc",
